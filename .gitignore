@@ -1,0 +1,8 @@
+# Pastas de midia e gravacoes
+gravações/
+edição/
+
+# Dependencias e cache (Remotion / Node)
+node_modules/
+.remotion/
+.cache/
