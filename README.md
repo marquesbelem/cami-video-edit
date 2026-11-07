@@ -58,6 +58,7 @@ Ao receber a instrução **`edit`**, o agente assistente obrigatoriamente solici
   * Deve ser sobreposto em um quadrante menor e visível (ex.: canto inferior ou superior da tela).
   * O quadrante da câmera deve possuir **cantos arredondados** condizentes com a identidade visual da marca e borda sutil de contraste para legibilidade.
   * Não deve cobrir elementos essenciais do código, interface da IDE ou jogo exibido na tela.
+  * Remover o ruido de som. 
 
 ### 3. Áudio, Trilha Sonora & Efeitos Sonoros (SFX)
 * Incluir música de fundo (background music) suave e efeitos sonoros pontuais em transições e momentos de ênfase.
