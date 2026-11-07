@@ -1,0 +1,3 @@
+[submodule ".agent/skills/cami-brand-identity"]
+	path = .agent/skills/cami-brand-identity
+	url = https://github.com/marquesbelem/cami-brand-identity-skill.git
