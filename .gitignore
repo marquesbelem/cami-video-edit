@@ -3,6 +3,8 @@ gravações/
 edição/
 intro/
 gravacoes/
+public/
+exemplos/
 # Dependencias e cache (Remotion / Node)
 node_modules/
 .remotion/
